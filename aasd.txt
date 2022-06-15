@@ -1,0 +1,24 @@
+<div class="box">
+            <div class="dream">
+                <img src="images/early-years-1.jpeg" alt="" class="early">
+                <img src="images/summer_pub__1-1.jpg" alt="">
+                <img src="images/summer_pub__2-1.jpg" alt="">
+                <img src="images/summer_pub__3-2.jpg" alt="">
+                <img src="images/hella-cute__1.jpg" alt="">
+            </div>
+
+            <div class="dream">
+                <img src="images/hella-cute__6.jpg" alt="">
+                <img src="images/summer_pub__1-2.jpg" alt="">
+                <img src="images/summer_pub__2-2.jpg" alt="">
+                <img src="images/summer_priv__1-1.jpg" alt="">
+                <img src="images/hella-cute__2.jpg" alt="">
+            </div>
+
+            <div class="dream">
+                <img src="images/hella-cute__5.jpg" alt="">
+                <img src="images/summer_pub__1-3.jpg" alt="">
+                <img src="images/summer_pub__3-1.jpg" alt="">
+                <img src="images/summer_priv__1-2.jpg" alt="">
+                <img src="images/hella-cute__3.jpg" alt="">
+            </div>
